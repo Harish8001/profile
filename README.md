@@ -1,5 +1,5 @@
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" style="width: 100%; height:10%;">
-<h1 align="center">Hi 👋, I'm Harish N</h1>
+<h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">Full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="harish8001" /> </p>
 
